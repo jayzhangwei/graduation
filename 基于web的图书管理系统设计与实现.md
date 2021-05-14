@@ -1,8 +1,11 @@
 
 
 > **作者：** C you again，从事软件开发  努力在IT搬砖路上的技术小白
+> 
 > **公众号：** 【**[<font color="#5094d5" ><u>C you again</u></font>](https://cyouagain.cn/)**】，分享计算机类毕业设计源码、IT技术文章、游戏源码、网页模板、程序人生等等。公众号回复 【<font color="#e33e33" >**粉丝**</font>】进博主技术群，与大佬交流，**领取干货学习资料**
+> 
 > **关于转载**：欢迎转载博主文章，转载时表明出处
+> 
 > **求赞环节**：创作不易，记得 <font color="#e33e33" >点赞</font>+<font color="#e33e33" >评论</font>+<font color="#e33e33" >转发</font> 谢谢你一路支持
 > 
 # 系统演示链接：[点击这里查看演示](http://books.cyouagain.cn)
@@ -369,3 +372,4 @@ public class updateBookTypeServlet extends HttpServlet {
 }
 ```
 
+最后，关注公众号【C you again】获取更多计算类毕业设计源码！！
